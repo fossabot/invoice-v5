@@ -4,6 +4,7 @@
 
 ![v5-develop phpunit](https://github.com/invoiceninja/invoiceninja/workflows/phpunit/badge.svg?branch=v5-develop)
 ![v5-stable phpunit](https://github.com/invoiceninja/invoiceninja/workflows/phpunit/badge.svg?branch=v5-stable)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F4f7u-47nm%2Finvoice-v5.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F4f7u-47nm%2Finvoice-v5?ref=badge_shield)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d39acb4bf0f74a0698dc77f382769ba5)](https://www.codacy.com/app/turbo124/invoiceninja?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=invoiceninja/invoiceninja&amp;utm_campaign=Badge_Grade)
 
@@ -92,3 +93,6 @@ To manage our workflow we will be creating separate branches for the client (Flu
 ## License
 Invoice Ninja is released under the Attribution Assurance License.  
 See [LICENSE](LICENSE) for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F4f7u-47nm%2Finvoice-v5.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F4f7u-47nm%2Finvoice-v5?ref=badge_large)
